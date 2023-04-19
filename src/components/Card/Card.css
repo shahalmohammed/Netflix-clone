@@ -1,0 +1,29 @@
+
+.movies img{
+    width: 200px;
+    height: 250px;
+   
+  margin-left:10px;
+  
+}
+.Card{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: black !important;
+    margin-left: 2%;
+}
+.movies{
+    background-color: black;
+
+    width: 100%;
+    margin-top: 10px;
+    
+}
+.Card::-webkit-scrollbar{
+    display: none;
+}
+
+

@@ -1,0 +1,28 @@
+.Banner{
+   
+    background-color: black;
+    margin-top: 10px;
+   
+}
+.Banner img{
+    position: relative;
+    margin: auto;
+    width: 92%;
+    height: 450px;
+}
+.Banner h2{
+position: absolute;
+margin-top: -350px;
+margin-left: 80px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.Banner .p{
+    
+    width: 80%;
+    margin-top: -300px;
+    margin-left: 80px;
+    position: absolute;
+    color: white;
+    text-align:start;
+}
